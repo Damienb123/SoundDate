@@ -25,8 +25,8 @@ This API uses Bearer Authentication. Include the token in the Authorization head
 
 ### Security Schemes
 BearerAuth:
-    - type: http
-    - scheme: bearer
+- type: http
+- scheme: bearer
 
 ## Example Usage
 
